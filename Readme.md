@@ -1,9 +1,9 @@
 ### Mine_PCR: Code for registration of LiDAR point cloud map in Jinchuan mine
 
-- [√] Release the the point cloud registration code.
-- [√] Release the the downsample code.
-- [√] Release the 2D boundary map extraction code.
-- [√] Release the dataset.
+- [x] Release the the point cloud registration code.
+- [x] Release the the downsample code.
+- [x] Release the 2D boundary map extraction code.
+- [x] Release the dataset.
 - [ ] Release the results.
 - [ ] Hugging Face live demo.
 
