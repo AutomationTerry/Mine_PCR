@@ -1,0 +1,6 @@
+certifi==2021.5.30
+laspy==2.1.2
+numpy==1.19.5
+pclpy==0.11.0
+pclpy-dependencies==0.2.1
+wincertstore==0.2
