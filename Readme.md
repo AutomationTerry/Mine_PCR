@@ -28,6 +28,11 @@ conda activate mine_pcr36
 pip install -r pcd36_requirements.txt
 
 python boundary.py
+
+conda activate mine_pcr310
+python boundary_xyz.py
+python slope.py
+python slope_fine.py
 ```
 Then you can see the  running results are saved in the `output` folder.
 
